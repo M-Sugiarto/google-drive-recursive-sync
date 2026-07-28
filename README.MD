@@ -54,6 +54,12 @@ To transform this script into an independent, hands-off engine that replicates f
    - **Select time of day:** Choose your target synchronization window (e.g., `17.00 to 18.00` / 5 PM Jakarta time).
 4. Click **Save** to activate the automation daemon.
 
+## Disclaimer
+
+This project is provided for educational and operational purposes.
+Users are responsible for complying with the licenses, terms of service, and regulations associated with any third-party services, APIs, frameworks, or data sources used with this software.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
